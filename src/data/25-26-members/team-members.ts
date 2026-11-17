@@ -440,7 +440,7 @@ const roster = [
 		image: "joseKerketta.jpg",
 		email: "jose.kerketta@queensu.ca",
 		program: "CS '28",
-		years: "1",
+		years: "2",
 		linkedin: "https://www.linkedin.com/in/jose-kerketta/",
 		askMeAbout: "Saul Goodman",
 	},
